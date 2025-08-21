@@ -1,10 +1,10 @@
 # Hi 👋 I'm Kohxax
 
 ## 使用言語
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ユーザー名&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kohxax&layout=compact&theme=tokyonight)
 
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ユーザー名&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kohxax&show_icons=true&theme=tokyonight)
 
 ## 勉強中の技術
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
