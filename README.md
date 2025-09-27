@@ -1,5 +1,3 @@
-# I'm Kohxax
-
 ## 使用言語
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kohxax&layout=compact&theme=tokyonight)
 
