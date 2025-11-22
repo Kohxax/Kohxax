@@ -1,16 +1,21 @@
-## 使用言語
+## lang
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kohxax&layout=compact&theme=tokyonight)
 
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kohxax&show_icons=true&theme=tokyonight)
 
-## わからん
-Java - わからん
+## tech
 
-Typescript - 全くわからん
+### lang
+Java - ちょっと
+Kotlin - ちょっと
+Typescript - 勉強中
 
+### framework
 Vue - わからん
+Nuxt.js - ちょっと
 
-HTML＆CSS - わからん
-
+### etc
+HTML&CSS - ちょっと
 インフラ - わからん
+AWS - わからん
